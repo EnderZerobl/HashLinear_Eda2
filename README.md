@@ -1,8 +1,8 @@
-# 🪣 Hash Linear: Avaliação Experimental e Visualizador Web
+# Hash Linear
 
 Este repositório contém a implementação em Python, a avaliação de desempenho empírico e uma interface gráfica interativa para o algoritmo de **Hash Linear** de W. Litwin. 
 
-O projeto foi desenvolvido como trabalho prático da disciplina de Algoritmos e Estruturas de Dados do curso de Ciência da Computação da Universidade Federal da Bahia (UFBA).
+O projeto foi desenvolvido como trabalho prático da disciplina de Estrutura de Dados 2 do curso de Ciência da Computação da Universidade Federal da Bahia (UFBA).
 
 ## 📌 Escopo do Projeto
 
