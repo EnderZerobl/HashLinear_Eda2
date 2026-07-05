@@ -9,7 +9,7 @@ O projeto foi desenvolvido como trabalho prático da disciplina de Estrutura de 
 O projeto é estruturado em duas vertentes principais (Acadêmica e Didática):
 
 1. **Avaliação Experimental (Obrigatória):** Implementação da estrutura de dados simulando partições em disco e execução de uma bateria massiva de testes (100.000 inserções dinâmicas e 10.000 buscas). O objetivo é comprovar o *trade-off* entre o tempo de busca e a fragmentação (páginas de transbordamento) ao variar a capacidade da página (`P`) e o limite do fator de carga (`α_max`).
-2. **🌟 Visualizador Web (Adicional Frontend):** Para facilitar o entendimento didático da mecânica do algoritmo, o repositório conta com uma implementação extra. Trata-se de uma aplicação Web (*Full-Stack*) que renderiza visualmente a criação, o limite de ocupação e o encadeamento de *overflow* dos *buckets* da tabela em tempo real a cada inserção.
+2. **Interface Gráfica:** Para facilitar o entendimento didático da mecânica do algoritmo, o repositório conta com uma implementação extra. Trata-se de uma aplicação Web que renderiza visualmente a criação, o limite de ocupação e o encadeamento de *overflow* dos *buckets* da tabela em tempo real a cada inserção.
 
 ## 📂 Estrutura do Repositório
 
