@@ -32,9 +32,9 @@ Bash
 
 python linear_hash.py
 
-2. Rodar a Aplicação Web (Visualizador Frontend)
+2. Rodar a Interface gráfica
 
-Para abrir a interface gráfica interativa e entender o funcionamento passo a passo do espalhamento dinâmico:
+Para abrir a interface gráficae entender o funcionamento passo a passoo:
 Bash
 
 python app.py
