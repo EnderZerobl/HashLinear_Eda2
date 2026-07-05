@@ -1,6 +1,6 @@
 # Hash Linear
 
-Este repositório contém a implementação em Python, a avaliação de desempenho empírico e uma interface gráfica interativa para o algoritmo de **Hash Linear** de W. Litwin. 
+Este repositório contém a implementação em Python de uma avaliação e de uma interface gráfica interativa para o algoritmo de **Hash Linear**. 
 
 O projeto foi desenvolvido como trabalho prático da disciplina de Estrutura de Dados 2 do curso de Ciência da Computação da Universidade Federal da Bahia (UFBA).
 
